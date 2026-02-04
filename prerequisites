@@ -1,3 +1,9 @@
+--What you'll need--
+
+This guide is based around the following:
+  Raspberry Pi Zero W or Zero 2 W
+  Waveshare 2.8" LCD (from https://www.waveshare.com/2.8inch-dpi-lcd.htm)
+
 --Raspberry Pi OS and the Waveshare screen--
 
 The easiest way to get Raspberry Pi OS on your SD card is using the Raspberry Pi Imager tool (https://www.raspberrypi.com/software).
