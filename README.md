@@ -6,4 +6,6 @@ This repo covers the software steps to get the Mini vMac emulator working on a m
 
 I didn't really write any groundbreaking code here, and while I'm not including the actual source files for Mini vMac, I marked this project as GPL v2 to match what Mini vMac is licensed as. If that project ever disappears, I may host a copy of the source files here for posterity, so this covers for that (hopefully unlikely) scenario.
 
-I'm honestly not planning on keeping up with this project much, so don't expect updates. I'll try to include notes at points where doing your own homework is advised (looking up the URL for the latest Mini vMac source, etc). I also can't really offer much in terms of troubleshooting; I'm not a developer, just a hapless YouTuber who slapped some stuff together to make this thing work.
+I'm honestly not planning on keeping up with this project much, so don't expect updates. I'll try to include notes at points where doing your own homework is advised (looking up the URL for the latest Mini vMac source, etc). I also can't really offer much in terms of troubleshooting; I'm not a developer, just a hapless YouTuber who slapped some stuff together to make this thing work, so you're pretty much on your own. If you can make this process better/easier/faster/whatever, go for it!
+
+Start with the prerequisites doc to get your Raspberry Pi set up, then proceed to the set-up-minivmac doc.
