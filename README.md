@@ -8,4 +8,4 @@ I didn't really write any groundbreaking code here, and while I'm not including 
 
 I'm honestly not planning on keeping up with this project much, so don't expect updates. I'll try to include notes at points where doing your own homework is advised (looking up the URL for the latest Mini vMac source, etc). I also can't really offer much in terms of troubleshooting; I'm not a developer, just a hapless YouTuber who slapped some stuff together to make this thing work, so you're pretty much on your own. If you can make this process better/easier/faster/whatever, go for it!
 
-Start with the prerequisites doc to get your Raspberry Pi set up, then proceed to the set-up-minivmac doc.
+Start with the prerequisites doc to get your Raspberry Pi set up, then proceed to the set-up-minivmac doc. The whats-next doc is useful to folks who don't have experience with Mac emulation.
