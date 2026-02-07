@@ -1,8 +1,9 @@
 ## What you'll need
 
 This guide is based around the following:
-* Raspberry Pi Zero W or Zero 2 W
-* Waveshare 2.8" LCD (from https://www.waveshare.com/2.8inch-dpi-lcd.htm)
+* a Maclock (affiliate link): https://amzn.to/4qqzL5c or from AliExpress, etc.
+* Raspberry Pi Zero W or Zero 2 W (I like this kit, affiliate link): https://amzn.to/4tozTVi
+* Waveshare 2.8" LCD (affiliate link): https://amzn.to/4qoIWTx or https://www.waveshare.com/2.8inch-dpi-lcd.htm
 
 ## Raspberry Pi OS and the Waveshare screen
 
